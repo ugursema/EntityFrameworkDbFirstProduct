@@ -1,7 +1,7 @@
 
 # Entity Framework Db First - Product & Category Management
 
-C# Windows Forms ve Entity Framework Db First yaklaşımı kullanılarak geliştirilmiş basit bir ürün ve kategori yönetim uygulamasıdır.Db First, LINQ ve ilişkili tablolar** konularını öğrenmek amacıyla geliştirildi 
+C# Windows Forms ve Entity Framework Db First yaklaşımı kullanılarak geliştirilmiş basit bir ürün ve kategori yönetim uygulamasıdır. Db First, LINQ ve ilişkili tablolar konularını öğrenmek amacıyla geliştirildi 
 
 ### Özellikler
 - Kategori listeleme, ekleme, silme ve güncelleme
@@ -17,7 +17,5 @@ C# Windows Forms ve Entity Framework Db First yaklaşımı kullanılarak gelişt
 - LINQ
 - SQL Server
 
-### Amaç
-Entity Framework Db First yaklaşımını, LINQ sorgularını ve ilişkili tablolar üzerinde CRUD işlemlerini uygulamalı olarak öğrenmek.</WritingBlock}
 
  
